@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+df = pd.read_csv("career.csv")  # CSV in same repo folder
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 from sklearn import tree
