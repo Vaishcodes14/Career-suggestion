@@ -4,7 +4,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 
 # Load dataset
-df = pd.read_csv("career_dataset.csv")
+df = pd.read_csv("large_career_dataset.csv")
 
 # Features & Target
 X = df.drop("Career", axis=1)
