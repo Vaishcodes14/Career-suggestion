@@ -1,0 +1,1501 @@
+Age,Interest,Aptitude,Career
+16,Literature,Communication,Journalist
+19,Sports,Creative,Sports Scientist
+15,Business,Practical,Entrepreneurship
+17,Science,Practical,Medicine
+16,Maths,Communication,Engineering
+25,Maths,Practical,Commerce
+20,Science,Logical,Biotechnology
+21,Maths,Leadership,Engineering
+23,Maths,Communication,Engineering
+26,Social Science,Communication,Psychologist
+30,Literature,Research,Writer
+30,Science,Communication,Research
+28,Maths,Practical,Data Science
+28,Science,Creative,Biotechnology
+29,Science,Analytical,Biotechnology
+28,Arts,Communication,Literature
+18,Science,Communication,Research
+28,Business,Leadership,Finance
+29,Social Science,Analytical,Lawyer
+28,Literature,Practical,Teacher
+25,Literature,Leadership,Journalist
+28,Maths,Logical,Engineering
+29,Maths,Analytical,Data Science
+30,Literature,Leadership,Teacher
+18,Maths,Analytical,Engineering
+22,Business,Leadership,Finance
+18,Technology,Communication,AI/ML Engineer
+29,Maths,Research,Engineering
+24,Arts,Research,Fine Arts
+15,Science,Communication,Research
+28,Arts,Leadership,Graphic Design
+22,Business,Leadership,Management
+21,Arts,Logical,Literature
+29,Technology,Logical,Cybersecurity
+15,Technology,Leadership,AI/ML Engineer
+25,Literature,Leadership,Journalist
+19,Sports,Analytical,Athlete
+30,Maths,Communication,Commerce
+30,Maths,Logical,Commerce
+24,Arts,Practical,Graphic Design
+15,Business,Research,Management
+28,Maths,Leadership,Commerce
+26,Literature,Practical,Teacher
+26,Maths,Analytical,Data Science
+18,Maths,Analytical,Data Science
+25,Sports,Leadership,Athlete
+21,Science,Practical,Biotechnology
+26,Arts,Analytical,Graphic Design
+22,Literature,Leadership,Writer
+18,Science,Communication,Biotechnology
+15,Business,Leadership,Finance
+22,Maths,Leadership,Engineering
+22,Science,Communication,Biotechnology
+18,Literature,Logical,Journalist
+19,Maths,Research,Engineering
+22,Science,Research,Research
+17,Social Science,Leadership,Sociologist
+17,Technology,Leadership,AI/ML Engineer
+15,Literature,Leadership,Writer
+23,Science,Practical,Medicine
+16,Arts,Creative,Fine Arts
+20,Business,Communication,Finance
+21,Technology,Practical,Cybersecurity
+30,Literature,Research,Teacher
+30,Science,Leadership,Medicine
+23,Arts,Research,Graphic Design
+25,Arts,Practical,Literature
+27,Maths,Practical,Engineering
+18,Business,Research,Management
+23,Maths,Analytical,Data Science
+26,Maths,Creative,Engineering
+19,Social Science,Practical,Lawyer
+19,Sports,Communication,Athlete
+21,Sports,Analytical,Coach
+30,Science,Communication,Biotechnology
+24,Sports,Analytical,Athlete
+19,Technology,Analytical,Software Engineer
+16,Business,Leadership,Finance
+24,Sports,Logical,Coach
+28,Sports,Analytical,Coach
+28,Technology,Practical,AI/ML Engineer
+30,Sports,Leadership,Coach
+17,Science,Analytical,Biotechnology
+15,Social Science,Leadership,Sociologist
+22,Business,Creative,Entrepreneurship
+25,Science,Logical,Medicine
+15,Arts,Creative,Graphic Design
+23,Literature,Logical,Writer
+26,Technology,Research,Cybersecurity
+15,Arts,Creative,Fine Arts
+29,Social Science,Leadership,Lawyer
+24,Literature,Practical,Teacher
+17,Maths,Practical,Engineering
+23,Literature,Leadership,Teacher
+16,Sports,Creative,Coach
+16,Arts,Practical,Fine Arts
+15,Literature,Logical,Journalist
+22,Literature,Creative,Teacher
+25,Maths,Logical,Commerce
+28,Maths,Communication,Engineering
+19,Literature,Leadership,Writer
+24,Science,Practical,Biotechnology
+18,Science,Communication,Research
+15,Business,Practical,Finance
+30,Sports,Communication,Coach
+15,Social Science,Leadership,Psychologist
+18,Science,Research,Research
+27,Sports,Analytical,Coach
+25,Sports,Research,Athlete
+18,Literature,Research,Journalist
+18,Sports,Communication,Athlete
+18,Science,Communication,Medicine
+15,Technology,Logical,Software Engineer
+16,Maths,Leadership,Commerce
+30,Sports,Creative,Coach
+24,Arts,Analytical,Fine Arts
+20,Sports,Practical,Sports Scientist
+21,Science,Leadership,Research
+26,Literature,Practical,Teacher
+25,Social Science,Communication,Psychologist
+26,Literature,Leadership,Journalist
+23,Business,Leadership,Entrepreneurship
+28,Arts,Practical,Literature
+25,Technology,Leadership,Software Engineer
+29,Technology,Research,Cybersecurity
+15,Science,Leadership,Biotechnology
+18,Social Science,Leadership,Sociologist
+20,Business,Analytical,Management
+30,Maths,Practical,Engineering
+16,Business,Logical,Finance
+24,Literature,Logical,Journalist
+16,Social Science,Practical,Sociologist
+27,Social Science,Communication,Psychologist
+24,Arts,Practical,Fine Arts
+15,Sports,Practical,Coach
+24,Social Science,Practical,Sociologist
+23,Sports,Communication,Sports Scientist
+30,Social Science,Research,Sociologist
+21,Business,Creative,Finance
+21,Arts,Analytical,Fine Arts
+17,Sports,Analytical,Athlete
+29,Business,Analytical,Management
+18,Technology,Research,Cybersecurity
+30,Technology,Analytical,AI/ML Engineer
+23,Social Science,Communication,Lawyer
+19,Maths,Logical,Engineering
+27,Business,Communication,Entrepreneurship
+26,Sports,Creative,Coach
+28,Sports,Practical,Coach
+30,Literature,Analytical,Journalist
+17,Literature,Leadership,Writer
+29,Science,Practical,Biotechnology
+25,Science,Leadership,Medicine
+21,Technology,Leadership,AI/ML Engineer
+28,Science,Logical,Biotechnology
+30,Science,Practical,Biotechnology
+23,Literature,Analytical,Teacher
+30,Literature,Creative,Teacher
+30,Maths,Creative,Data Science
+29,Science,Practical,Medicine
+20,Social Science,Creative,Sociologist
+15,Business,Communication,Management
+15,Sports,Leadership,Coach
+25,Science,Leadership,Biotechnology
+22,Arts,Practical,Fine Arts
+19,Literature,Research,Writer
+28,Science,Communication,Medicine
+19,Literature,Research,Journalist
+18,Science,Creative,Biotechnology
+20,Science,Creative,Medicine
+23,Technology,Leadership,AI/ML Engineer
+15,Arts,Logical,Graphic Design
+17,Arts,Analytical,Fine Arts
+28,Arts,Leadership,Fine Arts
+30,Arts,Analytical,Literature
+16,Technology,Leadership,Software Engineer
+20,Literature,Analytical,Writer
+19,Business,Analytical,Entrepreneurship
+20,Literature,Logical,Teacher
+15,Literature,Research,Teacher
+30,Literature,Communication,Journalist
+17,Arts,Analytical,Graphic Design
+28,Arts,Research,Fine Arts
+26,Arts,Communication,Graphic Design
+15,Arts,Research,Literature
+20,Arts,Creative,Fine Arts
+17,Technology,Communication,Cybersecurity
+15,Technology,Creative,AI/ML Engineer
+20,Social Science,Leadership,Sociologist
+16,Social Science,Research,Lawyer
+30,Sports,Communication,Sports Scientist
+26,Science,Practical,Medicine
+18,Arts,Creative,Fine Arts
+22,Technology,Creative,Software Engineer
+29,Technology,Analytical,Software Engineer
+18,Science,Communication,Research
+15,Arts,Creative,Literature
+20,Maths,Logical,Data Science
+25,Social Science,Analytical,Psychologist
+26,Literature,Creative,Teacher
+19,Maths,Practical,Commerce
+28,Sports,Analytical,Sports Scientist
+26,Literature,Logical,Journalist
+24,Science,Leadership,Biotechnology
+16,Sports,Leadership,Athlete
+29,Science,Analytical,Biotechnology
+28,Arts,Logical,Fine Arts
+19,Literature,Communication,Journalist
+16,Literature,Logical,Teacher
+25,Maths,Logical,Engineering
+23,Maths,Logical,Data Science
+22,Business,Leadership,Entrepreneurship
+18,Arts,Analytical,Fine Arts
+22,Business,Analytical,Management
+23,Literature,Analytical,Journalist
+16,Literature,Analytical,Writer
+27,Business,Analytical,Management
+21,Maths,Analytical,Engineering
+20,Literature,Analytical,Writer
+28,Technology,Research,Software Engineer
+16,Business,Communication,Finance
+28,Maths,Practical,Data Science
+17,Science,Analytical,Medicine
+27,Business,Research,Finance
+22,Technology,Research,AI/ML Engineer
+27,Science,Research,Biotechnology
+24,Technology,Communication,AI/ML Engineer
+23,Sports,Analytical,Athlete
+21,Maths,Communication,Data Science
+30,Maths,Analytical,Data Science
+26,Sports,Practical,Sports Scientist
+20,Literature,Leadership,Writer
+26,Technology,Creative,Software Engineer
+24,Technology,Creative,AI/ML Engineer
+22,Social Science,Communication,Psychologist
+29,Literature,Creative,Writer
+20,Business,Practical,Entrepreneurship
+25,Social Science,Practical,Sociologist
+26,Business,Creative,Management
+26,Science,Research,Biotechnology
+25,Maths,Logical,Engineering
+17,Arts,Leadership,Fine Arts
+23,Sports,Practical,Sports Scientist
+25,Social Science,Leadership,Sociologist
+25,Business,Leadership,Management
+22,Literature,Practical,Writer
+16,Arts,Research,Graphic Design
+21,Technology,Analytical,Cybersecurity
+25,Literature,Leadership,Teacher
+20,Technology,Leadership,Software Engineer
+17,Literature,Creative,Journalist
+27,Social Science,Analytical,Lawyer
+24,Literature,Communication,Writer
+20,Business,Practical,Finance
+29,Literature,Leadership,Journalist
+18,Literature,Logical,Teacher
+20,Science,Leadership,Research
+30,Literature,Communication,Journalist
+18,Science,Practical,Biotechnology
+21,Technology,Research,Cybersecurity
+21,Social Science,Leadership,Sociologist
+22,Maths,Leadership,Engineering
+30,Maths,Practical,Commerce
+21,Business,Leadership,Finance
+16,Maths,Logical,Commerce
+20,Maths,Leadership,Data Science
+15,Sports,Creative,Sports Scientist
+24,Business,Creative,Finance
+16,Business,Creative,Finance
+21,Business,Leadership,Management
+17,Science,Communication,Medicine
+22,Sports,Analytical,Coach
+15,Maths,Practical,Commerce
+22,Technology,Leadership,Cybersecurity
+20,Arts,Research,Fine Arts
+20,Maths,Creative,Commerce
+25,Literature,Logical,Journalist
+16,Arts,Creative,Graphic Design
+29,Maths,Practical,Engineering
+18,Sports,Research,Athlete
+20,Business,Creative,Management
+30,Technology,Communication,AI/ML Engineer
+25,Literature,Logical,Teacher
+19,Technology,Creative,Cybersecurity
+21,Sports,Leadership,Coach
+30,Technology,Practical,Software Engineer
+29,Science,Leadership,Medicine
+30,Business,Leadership,Entrepreneurship
+16,Arts,Analytical,Graphic Design
+17,Science,Creative,Biotechnology
+25,Arts,Creative,Graphic Design
+28,Sports,Practical,Sports Scientist
+17,Maths,Practical,Data Science
+26,Maths,Creative,Engineering
+30,Business,Analytical,Finance
+23,Business,Analytical,Finance
+30,Business,Creative,Finance
+21,Social Science,Analytical,Lawyer
+15,Literature,Practical,Journalist
+19,Social Science,Communication,Lawyer
+16,Maths,Logical,Engineering
+23,Technology,Practical,Cybersecurity
+15,Literature,Leadership,Teacher
+20,Literature,Research,Writer
+22,Literature,Leadership,Journalist
+30,Sports,Analytical,Coach
+30,Science,Analytical,Research
+16,Business,Communication,Finance
+20,Business,Leadership,Finance
+17,Maths,Research,Engineering
+18,Business,Research,Entrepreneurship
+23,Maths,Analytical,Commerce
+22,Sports,Creative,Sports Scientist
+19,Sports,Leadership,Sports Scientist
+24,Science,Practical,Biotechnology
+26,Science,Analytical,Medicine
+23,Literature,Analytical,Journalist
+21,Sports,Logical,Coach
+25,Literature,Communication,Writer
+20,Maths,Research,Data Science
+29,Technology,Practical,AI/ML Engineer
+22,Literature,Analytical,Journalist
+19,Science,Analytical,Research
+20,Sports,Analytical,Sports Scientist
+29,Sports,Communication,Coach
+28,Arts,Logical,Graphic Design
+26,Science,Analytical,Biotechnology
+15,Business,Communication,Finance
+30,Arts,Communication,Literature
+18,Sports,Practical,Coach
+24,Arts,Communication,Literature
+30,Maths,Creative,Engineering
+16,Maths,Analytical,Data Science
+30,Literature,Logical,Writer
+19,Maths,Communication,Commerce
+18,Arts,Research,Literature
+17,Social Science,Practical,Sociologist
+29,Literature,Logical,Teacher
+24,Technology,Communication,Cybersecurity
+28,Sports,Leadership,Coach
+19,Business,Logical,Finance
+25,Arts,Research,Literature
+21,Literature,Creative,Writer
+17,Business,Research,Finance
+29,Arts,Practical,Fine Arts
+20,Arts,Communication,Fine Arts
+21,Literature,Practical,Teacher
+19,Science,Creative,Biotechnology
+25,Maths,Research,Data Science
+24,Technology,Creative,Software Engineer
+24,Sports,Logical,Sports Scientist
+20,Arts,Leadership,Fine Arts
+24,Science,Communication,Research
+25,Literature,Practical,Writer
+17,Arts,Practical,Graphic Design
+17,Social Science,Communication,Lawyer
+26,Arts,Creative,Graphic Design
+17,Sports,Communication,Sports Scientist
+26,Literature,Communication,Journalist
+20,Maths,Leadership,Commerce
+19,Maths,Communication,Commerce
+23,Arts,Analytical,Graphic Design
+18,Technology,Communication,Software Engineer
+25,Social Science,Analytical,Sociologist
+28,Maths,Communication,Engineering
+26,Literature,Leadership,Journalist
+27,Social Science,Creative,Lawyer
+20,Arts,Research,Fine Arts
+17,Arts,Practical,Literature
+15,Literature,Creative,Journalist
+26,Literature,Leadership,Writer
+29,Business,Leadership,Management
+25,Literature,Communication,Journalist
+24,Arts,Research,Graphic Design
+30,Business,Logical,Management
+30,Technology,Logical,Cybersecurity
+28,Maths,Analytical,Engineering
+17,Social Science,Communication,Psychologist
+28,Maths,Practical,Commerce
+20,Science,Communication,Research
+28,Literature,Leadership,Writer
+30,Maths,Leadership,Data Science
+18,Literature,Creative,Journalist
+22,Maths,Creative,Data Science
+23,Arts,Creative,Graphic Design
+19,Social Science,Analytical,Lawyer
+27,Sports,Analytical,Athlete
+18,Social Science,Creative,Psychologist
+28,Maths,Leadership,Data Science
+18,Science,Creative,Medicine
+23,Literature,Creative,Journalist
+22,Business,Analytical,Management
+15,Maths,Analytical,Commerce
+24,Business,Research,Finance
+29,Maths,Communication,Engineering
+26,Arts,Practical,Literature
+25,Literature,Practical,Journalist
+25,Literature,Logical,Journalist
+27,Science,Logical,Biotechnology
+18,Social Science,Communication,Sociologist
+18,Literature,Leadership,Journalist
+16,Social Science,Communication,Sociologist
+24,Business,Communication,Entrepreneurship
+21,Literature,Research,Journalist
+19,Arts,Creative,Fine Arts
+18,Social Science,Leadership,Psychologist
+21,Technology,Creative,AI/ML Engineer
+26,Technology,Practical,Software Engineer
+28,Literature,Creative,Teacher
+29,Science,Creative,Medicine
+19,Social Science,Communication,Sociologist
+24,Maths,Creative,Data Science
+16,Maths,Communication,Engineering
+28,Business,Practical,Entrepreneurship
+29,Technology,Practical,Cybersecurity
+21,Science,Creative,Medicine
+15,Maths,Creative,Data Science
+25,Social Science,Analytical,Sociologist
+24,Sports,Logical,Athlete
+25,Arts,Communication,Literature
+28,Arts,Creative,Literature
+30,Social Science,Communication,Psychologist
+18,Technology,Analytical,Software Engineer
+29,Science,Leadership,Biotechnology
+22,Sports,Communication,Athlete
+17,Arts,Research,Graphic Design
+17,Maths,Communication,Data Science
+22,Arts,Analytical,Graphic Design
+25,Literature,Logical,Journalist
+28,Business,Research,Entrepreneurship
+18,Social Science,Leadership,Psychologist
+21,Literature,Logical,Journalist
+21,Science,Leadership,Research
+29,Business,Leadership,Finance
+26,Social Science,Practical,Lawyer
+21,Business,Analytical,Entrepreneurship
+16,Business,Communication,Entrepreneurship
+16,Arts,Analytical,Graphic Design
+20,Maths,Communication,Commerce
+16,Maths,Practical,Engineering
+30,Technology,Logical,AI/ML Engineer
+25,Literature,Practical,Writer
+29,Sports,Communication,Coach
+22,Sports,Leadership,Coach
+27,Literature,Logical,Writer
+26,Social Science,Leadership,Lawyer
+15,Literature,Analytical,Writer
+26,Business,Logical,Management
+26,Social Science,Logical,Lawyer
+20,Technology,Research,Cybersecurity
+22,Social Science,Leadership,Psychologist
+17,Arts,Communication,Fine Arts
+27,Maths,Logical,Engineering
+19,Social Science,Research,Lawyer
+17,Arts,Research,Literature
+16,Science,Research,Biotechnology
+19,Maths,Logical,Commerce
+21,Science,Research,Medicine
+15,Technology,Leadership,AI/ML Engineer
+30,Maths,Logical,Engineering
+30,Business,Leadership,Management
+15,Science,Analytical,Medicine
+28,Sports,Creative,Coach
+16,Maths,Analytical,Data Science
+29,Science,Leadership,Biotechnology
+24,Social Science,Practical,Lawyer
+15,Social Science,Research,Psychologist
+26,Literature,Research,Journalist
+21,Business,Logical,Management
+29,Science,Logical,Biotechnology
+16,Sports,Creative,Athlete
+25,Social Science,Communication,Psychologist
+22,Literature,Creative,Teacher
+25,Sports,Logical,Coach
+26,Sports,Leadership,Athlete
+27,Maths,Analytical,Engineering
+16,Literature,Logical,Journalist
+27,Arts,Practical,Literature
+30,Sports,Logical,Athlete
+29,Maths,Leadership,Data Science
+19,Business,Communication,Finance
+19,Technology,Research,Software Engineer
+17,Arts,Leadership,Literature
+24,Arts,Leadership,Fine Arts
+29,Business,Analytical,Management
+24,Maths,Communication,Data Science
+26,Arts,Research,Fine Arts
+21,Maths,Leadership,Commerce
+21,Arts,Analytical,Fine Arts
+21,Maths,Analytical,Data Science
+28,Maths,Analytical,Data Science
+27,Science,Logical,Research
+16,Maths,Creative,Commerce
+29,Sports,Creative,Coach
+20,Maths,Communication,Engineering
+21,Arts,Communication,Graphic Design
+18,Technology,Research,Software Engineer
+25,Science,Logical,Medicine
+29,Sports,Logical,Athlete
+29,Sports,Creative,Coach
+22,Technology,Research,Software Engineer
+24,Science,Logical,Research
+16,Sports,Creative,Sports Scientist
+28,Sports,Analytical,Athlete
+20,Technology,Logical,AI/ML Engineer
+17,Business,Creative,Finance
+25,Arts,Practical,Fine Arts
+16,Science,Practical,Biotechnology
+18,Sports,Creative,Athlete
+28,Science,Analytical,Medicine
+29,Arts,Analytical,Fine Arts
+16,Business,Creative,Entrepreneurship
+26,Sports,Creative,Coach
+19,Literature,Analytical,Journalist
+30,Sports,Creative,Coach
+25,Science,Leadership,Medicine
+18,Technology,Practical,Cybersecurity
+23,Social Science,Communication,Psychologist
+18,Maths,Research,Commerce
+18,Business,Analytical,Entrepreneurship
+23,Literature,Practical,Journalist
+30,Business,Practical,Finance
+17,Arts,Communication,Fine Arts
+27,Science,Creative,Medicine
+24,Literature,Logical,Teacher
+30,Literature,Communication,Writer
+30,Literature,Leadership,Journalist
+22,Literature,Communication,Teacher
+18,Social Science,Creative,Lawyer
+16,Business,Research,Finance
+17,Literature,Analytical,Journalist
+30,Business,Leadership,Finance
+30,Arts,Research,Graphic Design
+22,Arts,Creative,Literature
+26,Arts,Communication,Graphic Design
+19,Maths,Leadership,Engineering
+23,Business,Analytical,Management
+22,Maths,Creative,Engineering
+27,Maths,Logical,Data Science
+17,Social Science,Practical,Sociologist
+25,Literature,Analytical,Writer
+25,Sports,Communication,Coach
+29,Business,Leadership,Entrepreneurship
+17,Science,Practical,Medicine
+16,Business,Analytical,Management
+23,Maths,Creative,Engineering
+25,Sports,Leadership,Coach
+20,Arts,Logical,Fine Arts
+20,Maths,Leadership,Engineering
+22,Literature,Research,Teacher
+26,Literature,Leadership,Journalist
+22,Science,Leadership,Medicine
+27,Sports,Analytical,Athlete
+29,Science,Research,Biotechnology
+16,Science,Practical,Biotechnology
+17,Literature,Leadership,Teacher
+16,Technology,Creative,AI/ML Engineer
+25,Arts,Communication,Literature
+24,Technology,Leadership,Software Engineer
+15,Arts,Analytical,Literature
+15,Social Science,Creative,Psychologist
+29,Business,Creative,Management
+29,Technology,Creative,Software Engineer
+27,Business,Practical,Management
+26,Business,Creative,Finance
+19,Science,Leadership,Medicine
+27,Literature,Creative,Journalist
+26,Science,Communication,Medicine
+26,Technology,Leadership,Software Engineer
+22,Business,Analytical,Finance
+21,Social Science,Research,Sociologist
+30,Maths,Research,Commerce
+20,Science,Practical,Research
+24,Social Science,Creative,Lawyer
+19,Maths,Analytical,Commerce
+18,Arts,Analytical,Fine Arts
+22,Science,Practical,Research
+22,Literature,Creative,Writer
+22,Literature,Communication,Writer
+21,Arts,Practical,Graphic Design
+21,Science,Communication,Medicine
+29,Sports,Communication,Coach
+15,Business,Creative,Entrepreneurship
+16,Technology,Communication,Cybersecurity
+17,Social Science,Analytical,Psychologist
+22,Science,Analytical,Medicine
+15,Arts,Practical,Graphic Design
+27,Technology,Practical,Software Engineer
+21,Arts,Logical,Fine Arts
+26,Maths,Leadership,Data Science
+28,Maths,Creative,Engineering
+21,Business,Logical,Finance
+17,Business,Practical,Finance
+28,Social Science,Research,Lawyer
+30,Maths,Communication,Commerce
+16,Business,Research,Entrepreneurship
+25,Literature,Creative,Writer
+29,Social Science,Analytical,Psychologist
+18,Literature,Practical,Journalist
+24,Arts,Analytical,Graphic Design
+15,Social Science,Practical,Psychologist
+21,Business,Research,Management
+27,Business,Leadership,Management
+19,Technology,Logical,AI/ML Engineer
+28,Science,Analytical,Research
+29,Science,Practical,Biotechnology
+27,Sports,Practical,Coach
+15,Maths,Creative,Engineering
+20,Social Science,Logical,Sociologist
+25,Technology,Communication,AI/ML Engineer
+16,Technology,Leadership,Software Engineer
+27,Sports,Creative,Sports Scientist
+25,Science,Communication,Medicine
+27,Social Science,Leadership,Sociologist
+15,Literature,Creative,Writer
+16,Business,Communication,Finance
+20,Social Science,Logical,Lawyer
+17,Science,Research,Biotechnology
+24,Social Science,Practical,Psychologist
+28,Maths,Analytical,Commerce
+23,Social Science,Practical,Sociologist
+29,Sports,Practical,Sports Scientist
+25,Technology,Research,Cybersecurity
+17,Science,Communication,Research
+25,Technology,Logical,Cybersecurity
+28,Technology,Leadership,Software Engineer
+23,Business,Creative,Management
+15,Social Science,Logical,Lawyer
+17,Social Science,Research,Lawyer
+28,Social Science,Analytical,Sociologist
+23,Business,Creative,Entrepreneurship
+21,Maths,Creative,Commerce
+23,Business,Practical,Entrepreneurship
+21,Arts,Leadership,Graphic Design
+15,Sports,Creative,Sports Scientist
+19,Technology,Research,Software Engineer
+29,Arts,Research,Graphic Design
+16,Business,Research,Entrepreneurship
+15,Arts,Creative,Fine Arts
+23,Social Science,Creative,Lawyer
+20,Business,Creative,Finance
+15,Maths,Logical,Commerce
+16,Business,Logical,Management
+19,Science,Communication,Medicine
+16,Business,Analytical,Finance
+25,Sports,Analytical,Sports Scientist
+18,Literature,Research,Writer
+18,Technology,Logical,Cybersecurity
+29,Sports,Logical,Athlete
+15,Arts,Research,Fine Arts
+30,Technology,Logical,Cybersecurity
+17,Social Science,Communication,Lawyer
+25,Literature,Practical,Journalist
+21,Sports,Analytical,Coach
+22,Maths,Research,Data Science
+15,Maths,Leadership,Engineering
+22,Maths,Research,Data Science
+20,Sports,Leadership,Coach
+18,Maths,Research,Data Science
+29,Science,Analytical,Research
+23,Literature,Research,Writer
+19,Business,Communication,Entrepreneurship
+16,Technology,Communication,Cybersecurity
+19,Maths,Research,Data Science
+18,Science,Logical,Medicine
+26,Social Science,Logical,Lawyer
+24,Literature,Practical,Journalist
+27,Literature,Logical,Journalist
+22,Arts,Creative,Literature
+22,Technology,Analytical,Cybersecurity
+15,Social Science,Logical,Lawyer
+28,Arts,Practical,Fine Arts
+21,Business,Creative,Management
+17,Maths,Analytical,Data Science
+17,Maths,Creative,Data Science
+17,Literature,Analytical,Journalist
+20,Sports,Leadership,Athlete
+23,Science,Logical,Medicine
+15,Technology,Practical,Cybersecurity
+27,Literature,Practical,Writer
+30,Maths,Analytical,Engineering
+17,Arts,Practical,Graphic Design
+28,Literature,Logical,Writer
+21,Social Science,Research,Lawyer
+17,Business,Research,Management
+15,Social Science,Leadership,Psychologist
+21,Social Science,Creative,Lawyer
+15,Social Science,Communication,Sociologist
+23,Literature,Analytical,Writer
+29,Sports,Research,Athlete
+15,Literature,Research,Writer
+17,Science,Creative,Research
+30,Sports,Research,Sports Scientist
+20,Sports,Leadership,Coach
+28,Science,Logical,Research
+18,Sports,Leadership,Athlete
+17,Technology,Research,Cybersecurity
+24,Social Science,Research,Lawyer
+28,Arts,Leadership,Graphic Design
+28,Business,Communication,Entrepreneurship
+27,Business,Research,Entrepreneurship
+24,Arts,Creative,Graphic Design
+27,Science,Practical,Research
+29,Sports,Analytical,Sports Scientist
+30,Literature,Analytical,Teacher
+22,Technology,Communication,Cybersecurity
+30,Literature,Leadership,Journalist
+16,Technology,Creative,AI/ML Engineer
+15,Social Science,Research,Lawyer
+15,Technology,Practical,Software Engineer
+18,Science,Practical,Biotechnology
+23,Science,Practical,Biotechnology
+22,Arts,Communication,Literature
+20,Literature,Practical,Journalist
+23,Arts,Leadership,Literature
+20,Social Science,Leadership,Psychologist
+30,Social Science,Logical,Lawyer
+15,Arts,Research,Literature
+17,Business,Communication,Management
+19,Literature,Logical,Writer
+23,Social Science,Logical,Psychologist
+21,Maths,Communication,Engineering
+22,Arts,Logical,Fine Arts
+21,Arts,Analytical,Graphic Design
+18,Sports,Logical,Coach
+20,Maths,Practical,Data Science
+25,Science,Communication,Research
+30,Literature,Leadership,Teacher
+26,Literature,Creative,Journalist
+20,Social Science,Leadership,Psychologist
+25,Science,Leadership,Biotechnology
+18,Technology,Communication,AI/ML Engineer
+16,Literature,Research,Journalist
+22,Social Science,Research,Sociologist
+25,Science,Logical,Medicine
+24,Social Science,Analytical,Lawyer
+25,Social Science,Logical,Lawyer
+25,Maths,Logical,Data Science
+24,Technology,Research,Software Engineer
+24,Arts,Research,Fine Arts
+28,Technology,Logical,Cybersecurity
+16,Technology,Logical,Software Engineer
+25,Science,Communication,Medicine
+25,Science,Practical,Biotechnology
+19,Business,Leadership,Management
+26,Maths,Practical,Engineering
+18,Social Science,Creative,Sociologist
+17,Maths,Creative,Commerce
+29,Sports,Logical,Sports Scientist
+27,Literature,Research,Journalist
+15,Science,Research,Biotechnology
+30,Sports,Practical,Athlete
+26,Social Science,Analytical,Lawyer
+16,Sports,Research,Sports Scientist
+25,Social Science,Communication,Sociologist
+23,Sports,Practical,Sports Scientist
+18,Maths,Creative,Engineering
+27,Business,Leadership,Entrepreneurship
+27,Arts,Analytical,Literature
+30,Science,Communication,Biotechnology
+24,Arts,Research,Literature
+21,Arts,Leadership,Graphic Design
+19,Literature,Logical,Journalist
+30,Science,Creative,Biotechnology
+24,Technology,Analytical,Cybersecurity
+16,Maths,Communication,Data Science
+15,Sports,Creative,Sports Scientist
+27,Arts,Communication,Graphic Design
+19,Social Science,Practical,Lawyer
+21,Arts,Logical,Literature
+15,Technology,Research,AI/ML Engineer
+28,Arts,Practical,Literature
+24,Maths,Logical,Data Science
+19,Technology,Communication,AI/ML Engineer
+27,Sports,Leadership,Coach
+30,Sports,Leadership,Coach
+15,Social Science,Leadership,Psychologist
+20,Business,Analytical,Management
+18,Sports,Practical,Coach
+21,Technology,Practical,Software Engineer
+15,Social Science,Leadership,Psychologist
+23,Social Science,Communication,Psychologist
+18,Maths,Communication,Engineering
+22,Business,Research,Finance
+17,Literature,Logical,Teacher
+25,Literature,Creative,Teacher
+26,Technology,Practical,Software Engineer
+15,Sports,Practical,Athlete
+29,Literature,Analytical,Teacher
+26,Literature,Analytical,Journalist
+30,Arts,Practical,Literature
+20,Science,Communication,Medicine
+21,Social Science,Logical,Sociologist
+17,Literature,Communication,Writer
+15,Social Science,Practical,Lawyer
+19,Business,Creative,Finance
+16,Literature,Logical,Teacher
+25,Sports,Research,Sports Scientist
+28,Social Science,Research,Psychologist
+25,Science,Leadership,Biotechnology
+18,Science,Practical,Biotechnology
+18,Arts,Practical,Fine Arts
+29,Sports,Leadership,Coach
+18,Science,Communication,Medicine
+23,Maths,Research,Engineering
+19,Business,Research,Entrepreneurship
+26,Science,Practical,Medicine
+26,Maths,Practical,Commerce
+29,Social Science,Analytical,Sociologist
+25,Arts,Leadership,Fine Arts
+23,Business,Practical,Entrepreneurship
+17,Social Science,Research,Lawyer
+28,Sports,Research,Sports Scientist
+16,Business,Practical,Finance
+15,Sports,Research,Coach
+16,Business,Creative,Management
+17,Social Science,Analytical,Psychologist
+23,Literature,Communication,Teacher
+24,Science,Practical,Biotechnology
+30,Sports,Analytical,Coach
+28,Business,Communication,Entrepreneurship
+25,Technology,Leadership,Software Engineer
+17,Science,Logical,Biotechnology
+29,Social Science,Research,Lawyer
+18,Technology,Practical,Software Engineer
+27,Science,Creative,Biotechnology
+15,Sports,Practical,Athlete
+29,Literature,Communication,Writer
+25,Maths,Logical,Engineering
+22,Technology,Communication,Software Engineer
+29,Technology,Communication,Software Engineer
+17,Literature,Creative,Journalist
+21,Technology,Practical,Cybersecurity
+22,Maths,Practical,Commerce
+24,Science,Creative,Research
+18,Business,Practical,Entrepreneurship
+17,Sports,Analytical,Sports Scientist
+20,Social Science,Creative,Psychologist
+22,Arts,Analytical,Graphic Design
+24,Arts,Analytical,Literature
+27,Sports,Creative,Sports Scientist
+26,Literature,Logical,Writer
+30,Sports,Analytical,Athlete
+17,Maths,Leadership,Engineering
+29,Business,Logical,Finance
+26,Science,Research,Research
+21,Technology,Practical,Software Engineer
+17,Sports,Communication,Coach
+28,Social Science,Analytical,Psychologist
+21,Sports,Leadership,Sports Scientist
+29,Social Science,Practical,Sociologist
+17,Social Science,Research,Psychologist
+28,Business,Communication,Finance
+20,Sports,Communication,Sports Scientist
+19,Sports,Analytical,Coach
+17,Social Science,Communication,Psychologist
+26,Social Science,Practical,Sociologist
+25,Business,Leadership,Entrepreneurship
+20,Sports,Creative,Coach
+20,Social Science,Practical,Sociologist
+25,Business,Analytical,Finance
+25,Sports,Leadership,Sports Scientist
+20,Arts,Practical,Literature
+26,Social Science,Logical,Sociologist
+29,Maths,Research,Data Science
+26,Science,Creative,Research
+23,Literature,Analytical,Writer
+15,Maths,Logical,Engineering
+25,Literature,Research,Teacher
+19,Science,Logical,Biotechnology
+25,Social Science,Logical,Sociologist
+16,Social Science,Practical,Sociologist
+28,Sports,Communication,Coach
+15,Science,Leadership,Biotechnology
+20,Technology,Analytical,Cybersecurity
+21,Arts,Leadership,Graphic Design
+28,Literature,Research,Journalist
+21,Arts,Leadership,Graphic Design
+23,Business,Leadership,Entrepreneurship
+18,Sports,Communication,Sports Scientist
+28,Literature,Creative,Teacher
+27,Literature,Communication,Teacher
+19,Technology,Creative,Cybersecurity
+22,Sports,Analytical,Coach
+25,Business,Creative,Management
+29,Sports,Leadership,Sports Scientist
+18,Literature,Research,Writer
+25,Social Science,Communication,Sociologist
+25,Sports,Creative,Athlete
+26,Arts,Logical,Fine Arts
+21,Maths,Logical,Commerce
+27,Literature,Research,Teacher
+27,Arts,Logical,Graphic Design
+15,Sports,Practical,Coach
+26,Arts,Practical,Graphic Design
+17,Science,Practical,Research
+20,Science,Analytical,Research
+16,Literature,Practical,Journalist
+18,Technology,Communication,Cybersecurity
+21,Science,Logical,Medicine
+18,Arts,Communication,Literature
+24,Social Science,Logical,Lawyer
+24,Science,Analytical,Biotechnology
+27,Maths,Practical,Commerce
+24,Science,Communication,Biotechnology
+15,Social Science,Communication,Sociologist
+28,Technology,Practical,Software Engineer
+15,Maths,Leadership,Data Science
+28,Maths,Analytical,Data Science
+17,Sports,Analytical,Athlete
+18,Sports,Research,Coach
+30,Social Science,Research,Sociologist
+29,Business,Analytical,Finance
+19,Literature,Analytical,Teacher
+22,Business,Practical,Finance
+17,Social Science,Leadership,Psychologist
+26,Arts,Creative,Fine Arts
+30,Science,Creative,Biotechnology
+21,Social Science,Leadership,Lawyer
+27,Technology,Communication,AI/ML Engineer
+16,Science,Practical,Research
+25,Technology,Practical,AI/ML Engineer
+28,Arts,Creative,Graphic Design
+24,Literature,Leadership,Teacher
+15,Technology,Creative,Software Engineer
+19,Technology,Practical,Cybersecurity
+16,Science,Practical,Biotechnology
+27,Social Science,Practical,Lawyer
+28,Technology,Creative,Cybersecurity
+29,Sports,Logical,Athlete
+22,Business,Communication,Management
+30,Science,Logical,Biotechnology
+16,Arts,Leadership,Graphic Design
+20,Technology,Communication,Software Engineer
+22,Arts,Logical,Literature
+30,Social Science,Communication,Psychologist
+23,Social Science,Communication,Sociologist
+18,Arts,Creative,Graphic Design
+18,Sports,Creative,Coach
+15,Business,Communication,Entrepreneurship
+21,Social Science,Communication,Sociologist
+15,Sports,Leadership,Coach
+22,Business,Communication,Entrepreneurship
+19,Business,Practical,Finance
+21,Arts,Analytical,Literature
+15,Maths,Logical,Commerce
+24,Maths,Creative,Commerce
+22,Literature,Research,Teacher
+22,Arts,Communication,Fine Arts
+21,Science,Creative,Medicine
+30,Technology,Research,Software Engineer
+20,Technology,Analytical,Software Engineer
+29,Maths,Leadership,Commerce
+15,Sports,Analytical,Athlete
+23,Arts,Logical,Literature
+26,Maths,Research,Engineering
+22,Technology,Communication,Software Engineer
+17,Arts,Logical,Graphic Design
+25,Business,Research,Finance
+21,Business,Research,Finance
+30,Sports,Research,Coach
+21,Technology,Logical,AI/ML Engineer
+16,Sports,Creative,Coach
+29,Literature,Practical,Journalist
+27,Science,Analytical,Biotechnology
+20,Technology,Logical,Cybersecurity
+21,Literature,Leadership,Journalist
+16,Technology,Communication,Software Engineer
+22,Literature,Creative,Journalist
+16,Science,Research,Biotechnology
+23,Science,Communication,Medicine
+26,Technology,Practical,Software Engineer
+27,Arts,Practical,Fine Arts
+25,Arts,Creative,Literature
+21,Arts,Logical,Graphic Design
+18,Social Science,Practical,Sociologist
+27,Arts,Practical,Fine Arts
+23,Social Science,Leadership,Sociologist
+30,Literature,Logical,Teacher
+28,Business,Leadership,Entrepreneurship
+22,Business,Research,Finance
+18,Literature,Logical,Writer
+17,Business,Communication,Finance
+21,Arts,Practical,Graphic Design
+24,Social Science,Logical,Lawyer
+20,Business,Research,Management
+22,Literature,Practical,Journalist
+29,Arts,Analytical,Graphic Design
+28,Business,Communication,Entrepreneurship
+29,Technology,Research,Software Engineer
+15,Science,Leadership,Biotechnology
+23,Business,Practical,Finance
+17,Technology,Practical,Cybersecurity
+23,Technology,Logical,Cybersecurity
+25,Science,Logical,Biotechnology
+21,Business,Practical,Management
+16,Social Science,Leadership,Lawyer
+19,Business,Logical,Management
+29,Literature,Analytical,Teacher
+29,Business,Analytical,Management
+17,Technology,Analytical,Cybersecurity
+29,Social Science,Analytical,Lawyer
+29,Literature,Logical,Teacher
+20,Business,Practical,Management
+16,Science,Practical,Research
+24,Arts,Practical,Graphic Design
+29,Social Science,Analytical,Sociologist
+17,Science,Analytical,Medicine
+24,Business,Communication,Finance
+28,Sports,Communication,Sports Scientist
+30,Science,Leadership,Biotechnology
+30,Technology,Leadership,Cybersecurity
+30,Sports,Communication,Coach
+28,Arts,Research,Graphic Design
+19,Social Science,Logical,Sociologist
+23,Literature,Practical,Teacher
+19,Arts,Creative,Literature
+27,Literature,Logical,Teacher
+21,Sports,Creative,Coach
+25,Social Science,Leadership,Sociologist
+20,Social Science,Analytical,Lawyer
+22,Technology,Research,AI/ML Engineer
+15,Social Science,Practical,Lawyer
+21,Social Science,Creative,Lawyer
+24,Technology,Practical,AI/ML Engineer
+18,Literature,Practical,Writer
+15,Science,Communication,Medicine
+16,Science,Analytical,Research
+30,Social Science,Communication,Psychologist
+22,Science,Analytical,Biotechnology
+15,Arts,Communication,Literature
+16,Arts,Leadership,Fine Arts
+21,Maths,Communication,Data Science
+30,Sports,Practical,Sports Scientist
+23,Social Science,Analytical,Sociologist
+22,Social Science,Logical,Sociologist
+16,Arts,Practical,Graphic Design
+21,Social Science,Logical,Lawyer
+16,Technology,Leadership,AI/ML Engineer
+19,Sports,Leadership,Athlete
+25,Sports,Creative,Coach
+21,Literature,Practical,Teacher
+15,Social Science,Leadership,Lawyer
+25,Arts,Leadership,Graphic Design
+19,Sports,Research,Athlete
+27,Sports,Creative,Coach
+25,Business,Creative,Finance
+29,Sports,Communication,Sports Scientist
+25,Literature,Creative,Writer
+22,Arts,Leadership,Fine Arts
+15,Sports,Creative,Coach
+17,Arts,Logical,Graphic Design
+30,Literature,Communication,Journalist
+22,Technology,Research,Software Engineer
+25,Social Science,Communication,Psychologist
+29,Technology,Communication,Software Engineer
+30,Science,Communication,Medicine
+15,Science,Communication,Medicine
+16,Technology,Logical,AI/ML Engineer
+30,Maths,Communication,Commerce
+23,Literature,Leadership,Journalist
+28,Technology,Leadership,Cybersecurity
+16,Sports,Logical,Sports Scientist
+26,Business,Leadership,Finance
+27,Technology,Communication,Software Engineer
+28,Business,Creative,Entrepreneurship
+25,Technology,Leadership,AI/ML Engineer
+29,Social Science,Leadership,Sociologist
+30,Literature,Creative,Teacher
+27,Business,Research,Management
+16,Literature,Logical,Writer
+17,Science,Practical,Biotechnology
+16,Business,Creative,Finance
+17,Business,Logical,Finance
+22,Social Science,Leadership,Lawyer
+28,Literature,Practical,Journalist
+24,Sports,Leadership,Sports Scientist
+18,Sports,Analytical,Athlete
+15,Social Science,Creative,Lawyer
+24,Maths,Analytical,Engineering
+26,Technology,Communication,Cybersecurity
+20,Business,Analytical,Management
+19,Maths,Logical,Data Science
+29,Business,Analytical,Entrepreneurship
+22,Sports,Creative,Athlete
+20,Science,Creative,Medicine
+25,Sports,Leadership,Coach
+26,Technology,Analytical,Software Engineer
+18,Social Science,Leadership,Sociologist
+23,Arts,Research,Literature
+22,Arts,Logical,Literature
+18,Technology,Research,AI/ML Engineer
+22,Arts,Analytical,Graphic Design
+16,Arts,Creative,Literature
+22,Technology,Leadership,Cybersecurity
+26,Social Science,Research,Lawyer
+24,Literature,Leadership,Writer
+25,Maths,Communication,Data Science
+15,Literature,Logical,Writer
+15,Science,Logical,Medicine
+17,Maths,Communication,Data Science
+27,Maths,Research,Engineering
+28,Technology,Communication,Software Engineer
+22,Sports,Leadership,Sports Scientist
+15,Science,Communication,Research
+24,Social Science,Communication,Lawyer
+17,Social Science,Practical,Psychologist
+22,Business,Practical,Management
+24,Arts,Logical,Literature
+30,Literature,Practical,Writer
+18,Social Science,Communication,Psychologist
+27,Sports,Logical,Sports Scientist
+27,Arts,Communication,Fine Arts
+19,Science,Research,Biotechnology
+19,Social Science,Research,Sociologist
+27,Business,Creative,Entrepreneurship
+24,Science,Research,Research
+20,Technology,Practical,Software Engineer
+29,Science,Research,Research
+16,Technology,Practical,Software Engineer
+28,Arts,Logical,Graphic Design
+18,Business,Communication,Entrepreneurship
+23,Business,Research,Entrepreneurship
+17,Literature,Analytical,Teacher
+23,Technology,Research,Software Engineer
+26,Literature,Communication,Teacher
+27,Business,Leadership,Management
+24,Science,Communication,Biotechnology
+29,Literature,Creative,Journalist
+19,Literature,Practical,Journalist
+18,Business,Logical,Finance
+20,Technology,Communication,Cybersecurity
+29,Social Science,Practical,Lawyer
+16,Sports,Creative,Coach
+17,Literature,Leadership,Journalist
+24,Social Science,Communication,Sociologist
+30,Social Science,Communication,Lawyer
+29,Technology,Leadership,Software Engineer
+22,Technology,Research,Software Engineer
+27,Arts,Practical,Graphic Design
+15,Science,Research,Medicine
+27,Science,Analytical,Biotechnology
+20,Sports,Practical,Athlete
+16,Literature,Logical,Journalist
+30,Business,Research,Management
+29,Social Science,Analytical,Sociologist
+27,Business,Practical,Management
+26,Technology,Communication,Software Engineer
+18,Literature,Leadership,Teacher
+20,Social Science,Research,Lawyer
+15,Business,Creative,Entrepreneurship
+18,Science,Analytical,Research
+27,Social Science,Research,Sociologist
+23,Business,Analytical,Management
+20,Maths,Research,Commerce
+15,Business,Communication,Management
+25,Arts,Practical,Fine Arts
+20,Maths,Communication,Data Science
+26,Sports,Creative,Sports Scientist
+28,Science,Leadership,Medicine
+27,Technology,Leadership,Software Engineer
+29,Science,Logical,Research
+26,Literature,Communication,Writer
+30,Maths,Leadership,Data Science
+21,Literature,Creative,Writer
+22,Sports,Creative,Coach
+24,Business,Communication,Management
+24,Business,Communication,Entrepreneurship
+25,Maths,Analytical,Data Science
+18,Maths,Creative,Commerce
+24,Social Science,Logical,Sociologist
+15,Literature,Creative,Writer
+24,Literature,Creative,Writer
+19,Technology,Creative,Cybersecurity
+30,Literature,Practical,Teacher
+21,Technology,Leadership,Software Engineer
+23,Science,Communication,Biotechnology
+22,Sports,Creative,Athlete
+28,Maths,Practical,Data Science
+18,Arts,Analytical,Graphic Design
+27,Literature,Logical,Writer
+30,Business,Analytical,Management
+22,Technology,Analytical,AI/ML Engineer
+16,Social Science,Analytical,Sociologist
+16,Business,Practical,Finance
+15,Social Science,Creative,Psychologist
+21,Technology,Communication,AI/ML Engineer
+20,Literature,Creative,Writer
+19,Social Science,Logical,Lawyer
+18,Social Science,Analytical,Lawyer
+23,Science,Analytical,Research
+28,Maths,Logical,Commerce
+18,Business,Creative,Entrepreneurship
+19,Science,Communication,Medicine
+19,Arts,Leadership,Graphic Design
+15,Sports,Creative,Coach
+17,Social Science,Research,Lawyer
+23,Science,Research,Research
+26,Technology,Communication,AI/ML Engineer
+22,Social Science,Logical,Lawyer
+25,Science,Logical,Medicine
+29,Technology,Creative,AI/ML Engineer
+15,Science,Logical,Research
+17,Sports,Creative,Sports Scientist
+15,Science,Creative,Biotechnology
+22,Technology,Research,AI/ML Engineer
+27,Sports,Communication,Coach
+25,Arts,Practical,Literature
+28,Maths,Analytical,Commerce
+20,Science,Logical,Biotechnology
+21,Arts,Practical,Literature
+25,Maths,Communication,Engineering
+28,Literature,Leadership,Writer
+24,Literature,Analytical,Journalist
+26,Business,Practical,Entrepreneurship
+20,Maths,Analytical,Data Science
+25,Business,Creative,Entrepreneurship
+17,Social Science,Leadership,Psychologist
+26,Maths,Creative,Engineering
+15,Science,Communication,Research
+23,Technology,Practical,Software Engineer
+19,Maths,Leadership,Engineering
+24,Maths,Communication,Commerce
+18,Social Science,Practical,Lawyer
+30,Arts,Research,Fine Arts
+22,Technology,Analytical,Software Engineer
+30,Technology,Creative,AI/ML Engineer
+24,Social Science,Logical,Lawyer
+29,Science,Research,Medicine
+27,Maths,Communication,Data Science
+23,Maths,Communication,Data Science
+25,Science,Practical,Research
+19,Sports,Research,Athlete
+27,Business,Research,Entrepreneurship
+27,Science,Creative,Research
+16,Science,Communication,Biotechnology
+23,Literature,Logical,Writer
+24,Literature,Communication,Writer
+24,Sports,Communication,Athlete
+30,Sports,Communication,Sports Scientist
+17,Literature,Analytical,Writer
+21,Science,Creative,Medicine
+25,Sports,Logical,Coach
+26,Technology,Communication,AI/ML Engineer
+28,Maths,Communication,Data Science
+29,Social Science,Analytical,Sociologist
+29,Technology,Creative,Cybersecurity
+29,Maths,Research,Data Science
+28,Social Science,Research,Sociologist
+30,Arts,Practical,Fine Arts
+20,Science,Creative,Research
+27,Arts,Creative,Fine Arts
+19,Technology,Research,Cybersecurity
+21,Arts,Communication,Literature
+27,Maths,Creative,Commerce
+15,Science,Leadership,Medicine
+15,Social Science,Logical,Psychologist
+22,Business,Communication,Entrepreneurship
+16,Business,Leadership,Management
+17,Maths,Logical,Data Science
+15,Sports,Leadership,Athlete
+19,Literature,Analytical,Journalist
+19,Science,Communication,Biotechnology
+19,Arts,Research,Fine Arts
+27,Sports,Leadership,Coach
+28,Technology,Leadership,Software Engineer
+26,Maths,Communication,Data Science
+27,Technology,Leadership,Software Engineer
+27,Technology,Communication,AI/ML Engineer
+21,Sports,Logical,Sports Scientist
+19,Literature,Leadership,Journalist
+16,Business,Research,Management
+22,Maths,Research,Engineering
+20,Literature,Practical,Teacher
+18,Sports,Creative,Coach
+18,Maths,Practical,Engineering
+17,Maths,Communication,Engineering
+26,Sports,Logical,Sports Scientist
+22,Technology,Logical,Cybersecurity
+21,Maths,Logical,Data Science
+24,Literature,Leadership,Writer
+27,Science,Leadership,Biotechnology
+29,Literature,Practical,Teacher
+17,Technology,Communication,Software Engineer
+29,Business,Analytical,Entrepreneurship
+29,Science,Research,Biotechnology
+18,Maths,Practical,Engineering
+27,Literature,Logical,Teacher
+25,Arts,Logical,Graphic Design
+26,Science,Research,Biotechnology
+16,Maths,Communication,Commerce
+29,Arts,Practical,Fine Arts
+18,Sports,Communication,Coach
+18,Sports,Logical,Athlete
+23,Business,Communication,Finance
+24,Technology,Logical,AI/ML Engineer
+29,Science,Research,Research
+26,Arts,Research,Fine Arts
+20,Arts,Communication,Graphic Design
+26,Technology,Communication,Cybersecurity
+28,Business,Leadership,Management
+22,Business,Creative,Management
+28,Literature,Leadership,Teacher
+15,Maths,Leadership,Commerce
+29,Arts,Logical,Graphic Design
+30,Arts,Research,Literature
+26,Maths,Practical,Commerce
+30,Business,Practical,Finance
+16,Arts,Practical,Fine Arts
+17,Arts,Research,Fine Arts
+19,Social Science,Research,Sociologist
+27,Business,Practical,Entrepreneurship
+24,Literature,Practical,Teacher
+22,Science,Practical,Medicine
+28,Literature,Creative,Journalist
+21,Maths,Communication,Data Science
+28,Sports,Analytical,Sports Scientist
+24,Technology,Leadership,Cybersecurity
+29,Literature,Creative,Teacher
+28,Science,Communication,Biotechnology
+25,Science,Communication,Biotechnology
+16,Science,Leadership,Medicine
+30,Arts,Analytical,Graphic Design
+16,Business,Practical,Management
+30,Sports,Analytical,Coach
+30,Maths,Research,Commerce
+26,Sports,Leadership,Coach
+21,Maths,Leadership,Commerce
+28,Technology,Logical,AI/ML Engineer
+24,Literature,Communication,Teacher
+25,Literature,Practical,Teacher
+23,Literature,Leadership,Journalist
+28,Science,Analytical,Research
+18,Technology,Analytical,AI/ML Engineer
+30,Sports,Practical,Athlete
+25,Literature,Leadership,Writer
+21,Literature,Creative,Journalist
+16,Literature,Creative,Writer
+24,Business,Communication,Entrepreneurship
+22,Literature,Communication,Teacher
+18,Technology,Creative,Software Engineer
+23,Social Science,Communication,Sociologist
+30,Business,Leadership,Finance
+15,Maths,Research,Engineering
+16,Literature,Communication,Teacher
+17,Technology,Practical,Software Engineer
+27,Business,Analytical,Management
+30,Maths,Communication,Commerce
+26,Sports,Practical,Athlete
+30,Arts,Communication,Literature
+28,Arts,Leadership,Literature
+21,Arts,Creative,Fine Arts
+20,Science,Analytical,Biotechnology
+25,Sports,Logical,Coach
+24,Arts,Research,Fine Arts
+27,Literature,Practical,Journalist
+27,Science,Analytical,Research
+16,Sports,Research,Coach
+19,Business,Leadership,Management
+16,Arts,Creative,Literature
+18,Literature,Leadership,Teacher
+15,Maths,Practical,Engineering
+15,Business,Logical,Management
+16,Business,Communication,Entrepreneurship
+22,Science,Research,Biotechnology
+17,Maths,Research,Commerce
+29,Arts,Practical,Graphic Design
+26,Technology,Analytical,AI/ML Engineer
+30,Social Science,Communication,Sociologist
+29,Arts,Logical,Graphic Design
+30,Arts,Leadership,Literature
+27,Technology,Leadership,Cybersecurity
+22,Maths,Practical,Commerce
+28,Sports,Practical,Coach
+15,Literature,Analytical,Journalist
+24,Maths,Logical,Engineering
+26,Business,Research,Finance
+16,Maths,Communication,Data Science
+20,Business,Analytical,Management
+23,Sports,Logical,Sports Scientist
+24,Science,Research,Medicine
+26,Maths,Practical,Commerce
+25,Social Science,Practical,Psychologist
+20,Maths,Logical,Commerce
+23,Sports,Research,Athlete
+19,Technology,Practical,Software Engineer
+16,Social Science,Leadership,Lawyer
+18,Sports,Creative,Sports Scientist
+26,Social Science,Communication,Sociologist
+18,Maths,Research,Data Science
+29,Social Science,Communication,Lawyer
+16,Literature,Logical,Teacher
+19,Science,Leadership,Biotechnology
+20,Literature,Leadership,Teacher
+24,Maths,Communication,Data Science
+29,Social Science,Leadership,Sociologist
+24,Business,Leadership,Finance
+30,Social Science,Practical,Psychologist
+17,Technology,Research,Software Engineer
+23,Arts,Logical,Literature
+23,Science,Analytical,Medicine
+16,Social Science,Analytical,Sociologist
+29,Literature,Research,Teacher
+21,Literature,Analytical,Teacher
+22,Arts,Practical,Graphic Design
+21,Business,Practical,Finance
+29,Literature,Leadership,Journalist
+26,Maths,Logical,Engineering
+17,Maths,Logical,Commerce
+20,Sports,Communication,Coach
+29,Maths,Leadership,Data Science
+30,Arts,Practical,Literature
+22,Sports,Communication,Coach
+20,Arts,Research,Graphic Design
+17,Technology,Practical,Software Engineer
+17,Sports,Research,Athlete
+29,Literature,Analytical,Journalist
+24,Business,Creative,Finance
+17,Literature,Creative,Writer
+27,Sports,Research,Sports Scientist
+29,Arts,Logical,Literature
+20,Science,Research,Medicine
+18,Sports,Practical,Sports Scientist
+20,Science,Research,Research
+21,Sports,Research,Athlete
+23,Business,Research,Finance
+22,Social Science,Communication,Lawyer
+29,Business,Analytical,Finance
+24,Sports,Research,Sports Scientist
+24,Sports,Creative,Sports Scientist
+22,Technology,Creative,Software Engineer
+20,Social Science,Practical,Psychologist
+17,Literature,Leadership,Writer
+25,Social Science,Communication,Sociologist
+24,Social Science,Analytical,Sociologist
+29,Arts,Analytical,Literature
+17,Arts,Leadership,Graphic Design
+18,Technology,Practical,AI/ML Engineer
+19,Technology,Research,Software Engineer
+19,Social Science,Creative,Sociologist
+30,Literature,Leadership,Teacher
+19,Science,Logical,Medicine
+24,Technology,Communication,Software Engineer
+21,Maths,Practical,Commerce
+27,Arts,Analytical,Fine Arts
+15,Social Science,Leadership,Lawyer
+17,Maths,Research,Engineering
+16,Sports,Practical,Athlete
+18,Business,Logical,Management
+24,Technology,Leadership,AI/ML Engineer
+17,Literature,Leadership,Teacher
+28,Science,Analytical,Medicine
+27,Science,Research,Medicine
+15,Literature,Analytical,Journalist
+22,Social Science,Creative,Sociologist
+15,Maths,Logical,Data Science
+17,Maths,Creative,Commerce
+16,Business,Leadership,Entrepreneurship
+21,Technology,Creative,AI/ML Engineer
+25,Sports,Analytical,Athlete
+27,Maths,Logical,Data Science
+30,Science,Communication,Medicine
+19,Literature,Research,Writer
+23,Science,Logical,Biotechnology
+27,Arts,Logical,Literature
+17,Technology,Practical,Cybersecurity
+28,Maths,Creative,Engineering
+20,Technology,Analytical,Cybersecurity
+18,Arts,Communication,Literature
+21,Maths,Logical,Engineering
+25,Maths,Communication,Data Science
+30,Arts,Research,Fine Arts
+18,Technology,Research,Software Engineer
+15,Literature,Analytical,Journalist
+21,Technology,Practical,AI/ML Engineer
+24,Literature,Analytical,Journalist
+17,Literature,Practical,Teacher
+26,Social Science,Logical,Lawyer
+23,Social Science,Communication,Lawyer
+28,Sports,Practical,Sports Scientist
+17,Arts,Leadership,Fine Arts
+24,Sports,Practical,Coach
+26,Social Science,Research,Sociologist
+28,Sports,Practical,Sports Scientist
+25,Science,Practical,Medicine
+25,Arts,Analytical,Fine Arts
+24,Maths,Research,Data Science
+19,Literature,Logical,Journalist
+19,Social Science,Creative,Psychologist
+22,Business,Creative,Finance
+30,Literature,Creative,Teacher
+19,Arts,Communication,Graphic Design
+30,Technology,Creative,AI/ML Engineer
+17,Social Science,Creative,Sociologist
+22,Maths,Communication,Engineering
+16,Business,Creative,Finance
+30,Technology,Practical,Software Engineer
+28,Social Science,Analytical,Psychologist
+15,Social Science,Analytical,Sociologist
+16,Arts,Logical,Graphic Design
